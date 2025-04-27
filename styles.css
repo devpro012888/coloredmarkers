@@ -8,15 +8,15 @@ h1 {
     margin: 10px auto;
 }
 
-.red {
-    background: linear-gradient(180deg, rgb(122, 74, 14) 0%, rgb(245, 62, 113) 50%, rgb(162, 27, 27)) 100%;
+.one {
+    background-color: red;
 }
 
-
-.green {
-    background: #007F00;
+.two {
+    background-color: green;
 }
 
-.three {
-    background-color: blue;
+.container {
+    background-color: rgb(255, 255, 255);
+    padding: 10px 0;
 }
